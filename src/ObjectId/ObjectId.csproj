@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>System.ObjectId</AssemblyName>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>secret.pfx</AssemblyOriginatorKeyFile>
+    <Authors>Junyu Zhou</Authors>
+    <Company />
+    <Product>System.ObjectId</Product>
+    <Description>System.ObjectId from mongodb is a sort of global unique identifier</Description>
+  </PropertyGroup>
+
+</Project>
