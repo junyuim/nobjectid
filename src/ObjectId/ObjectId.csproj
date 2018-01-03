@@ -9,6 +9,10 @@
     <Company />
     <Product>System.ObjectId</Product>
     <Description>System.ObjectId from mongodb is a sort of global unique identifier</Description>
+    <PackageProjectUrl>https://github.com/rainrcn/ObjectId</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/rainrcn/ObjectId.git</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
 </Project>
