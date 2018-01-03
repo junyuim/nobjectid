@@ -2,17 +2,18 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <AssemblyName>System.ObjectId</AssemblyName>
+    <AssemblyName>Junyu.ObjectId</AssemblyName>
     <SignAssembly>true</SignAssembly>
     <AssemblyOriginatorKeyFile>secret.pfx</AssemblyOriginatorKeyFile>
     <Authors>Junyu Zhou</Authors>
     <Company />
-    <Product>System.ObjectId</Product>
-    <Description>System.ObjectId from mongodb is a sort of global unique identifier</Description>
+    <Product>Junyu.ObjectId</Product>
+    <Description>Junyu.ObjectId from mongodb is a sort of global unique identifier</Description>
     <PackageProjectUrl>https://github.com/rainrcn/ObjectId</PackageProjectUrl>
     <RepositoryUrl>https://github.com/rainrcn/ObjectId.git</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>Junyu.ObjectId</PackageId>
   </PropertyGroup>
 
 </Project>
