@@ -20,3 +20,7 @@ namespace Demo
     }
 }
 ```
+
+* the generated identifier consists of 24 characters, 12 bytes, according to the rules is divided into 4 parts: the timestamp (4 bytes) | machine id (3 bytes) | process id (2 bytes) | random number (3 bytes) *
+
+> detailed documentation please see: http://www.mongodb.org/display/DOCS/Object+IDs
