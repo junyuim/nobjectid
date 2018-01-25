@@ -2,7 +2,7 @@
 > objectid from mongodb is a sort of global unique identifier(guid)
 ## Use
 
-https://www.nuget.org/packages/Junyu.ObjectId
+https://www.nuget.org/packages/nobjectid
 
 ```C#
 using System;
