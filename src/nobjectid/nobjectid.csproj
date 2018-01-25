@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.0;net45</TargetFrameworks>
+    <AssemblyName>nobjectid</AssemblyName>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>secret.pfx</AssemblyOriginatorKeyFile>
+    <Authors>Junyu Zhou</Authors>
+    <Company />
+    <Product>nobjectid</Product>
+    <Description>objectid from mongodb is a sort of global unique identifier(guid)</Description>
+    <PackageProjectUrl>https://github.com/rainrcn/nobjectid</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/rainrcn/nobjectid.git</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>nobjectid</PackageId>
+    <Version>1.0.0</Version>
+  </PropertyGroup>
+
+</Project>

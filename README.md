@@ -1,5 +1,5 @@
-# ObjectId
-> ObjectId 来自于mongodb，是一种可排序的全局唯一标识符(GUID)。
+# nobjectid
+> objectid from mongodb is a sort of global unique identifier(guid)
 ## Use
 
 https://www.nuget.org/packages/Junyu.ObjectId
@@ -21,6 +21,6 @@ namespace Demo
 }
 ```
 
-* the generated identifier consists of 24 characters, 12 bytes, according to the rules is divided into 4 parts: the timestamp (4 bytes) | machine id (3 bytes) | process id (2 bytes) | increment number (3 bytes) *
+*the generated identifier consists of 24 characters, 12 bytes, according to the rules is divided into 4 parts: the timestamp (4 bytes) | machine id (3 bytes) | process id (2 bytes) | increment number (3 bytes)*
 
 > documentation please see: http://www.mongodb.org/display/DOCS/Object+IDs
